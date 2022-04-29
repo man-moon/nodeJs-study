@@ -1,0 +1,18 @@
+{
+  "name": "backend_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.1",
+    "firebase": "^9.6.10",
+    "firebase-admin": "^10.0.2",
+    "morgan": "^1.10.0"
+  }
+}
